@@ -15,11 +15,6 @@ It intelligently handles pasted content:
 - Preserves styling for pre-formatted content
 - Supports rich text editing (bold, alignment, etc.)
 
----
-
-## 🔒 Code Availability
-
-The source code is kept private to preserve originality and prevent plagiarism. It can be shared upon request for academic or technical evaluation.
 
 ---
 
