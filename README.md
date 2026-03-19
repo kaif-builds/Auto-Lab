@@ -1,3 +1,6 @@
+## 🔒 Code Availability
+The source code is kept private to preserve originality and prevent plagiarism. 
+It can be shared upon request for academic or technical evaluation.
 # 🔬 AutoLab: Practical Files, Perfected in Seconds.
 
 > **"Stop formatting. Start submitting."**
