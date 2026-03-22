@@ -7,13 +7,14 @@ It can be shared upon request for academic or technical evaluation.
 
 AutoLab is a web-based productivity system designed to automate the entire practical file creation workflow. Users fill simple forms and generate a submission-ready PDF in one click.
 
-## 🔗 Live Link
-[auto-lab-final.vercel.app](https://auto-lab-final.vercel.app)
-
 It intelligently handles pasted content:
 - Automatically formats raw text and messy input
 - Preserves styling for pre-formatted content
 - Supports rich text editing (bold, alignment, etc.)
+
+## 🔗 Live Link
+[auto-lab-final.vercel.app](https://auto-lab-final.vercel.app)
+
 
 
 ---
